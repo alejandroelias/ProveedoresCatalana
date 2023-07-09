@@ -1,0 +1,5 @@
+﻿## About this project
+ - Se uso la version de .NET Core 7.
+ - En el proyecto ProveedoresCatalana.Shared.
+	- Se creo el directorio Entities para contener a las entidades de ADO.NET y EF Core 7 (o 6)
+	- La claes Proveedor es la db  catalana (del 40.2)
